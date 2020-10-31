@@ -1,0 +1,14 @@
+.class1 {
+  text-align: center;
+  margin: 100px 0 0 35%;
+  border: 10px solid black;
+  border-radius: 50%;
+  width: 500px;
+  height: 500px;
+}
+#naybar {
+  list-style-type: None;
+}
+a {
+  text-decoration: none;
+}
